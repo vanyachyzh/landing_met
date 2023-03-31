@@ -27,7 +27,8 @@ Desktop: The landing page is optimized for desktop devices with larger screens, 
 
 To view the landing page, simply open the index.html file in your web browser. The landing page will load automatically, and you can explore the different sections by clicking on the navigation links.
 
-Technologies Used
+## Technologies Used
+
 This project was built using the following technologies:
 
 1. HTML
