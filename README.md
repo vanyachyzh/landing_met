@@ -34,3 +34,4 @@ This project was built using the following technologies:
 1. HTML
 2. CSS
 3. SCSS
+4. BEM
