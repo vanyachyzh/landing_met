@@ -35,3 +35,4 @@ This project was built using the following technologies:
 2. CSS
 3. SCSS
 4. BEM
+5. JS
