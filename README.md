@@ -1,6 +1,7 @@
 # The Metropolitan Museum of Art Landing Page
 
-[DEMO LINK](https://vanyachyzh.github.io/landing_MET/)
+[Demo link](https://vanyachyzh.github.io/landing_MET/)
+[Figma design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590-29&t=rFL1CXHXNVJq1tDB-0)
  
 This is a landing page for The Metropolitan Museum of Art, built using HTML, CSS, and SCSS. The landing page showcases the museum's various collections, exhibitions, and events. The landing page is designed to be adaptive to different screen sizes, including mobile, tablet, and desktop devices.
 
