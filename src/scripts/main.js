@@ -1,12 +1,6 @@
 /* eslint-disable no-undef */
 'use strict';
 
-// document.querySelector('input[name="email"]')
-//   .setAttribute('autocomplete', 'none');
-
-// document.querySelector('input[name="name"]')
-//   .setAttribute('autocomplete', 'none');
-
 const tagArr = document.getElementsByTagName('input');
 
 for (let i = 0; i < tagArr.length; i++) {
