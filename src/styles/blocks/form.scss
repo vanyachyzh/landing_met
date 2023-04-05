@@ -25,6 +25,9 @@
     &:focus {
       border: 1px solid #161616;
     }
+
+
+      &:-webkit-autofill { -webkit-text-fill-color: black;}
   }
 
   &__textarea {
