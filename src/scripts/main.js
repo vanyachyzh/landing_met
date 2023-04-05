@@ -1,12 +1,6 @@
 /* eslint-disable no-undef */
 'use strict';
 
-const tagArr = document.getElementsByTagName('input');
-
-for (let i = 0; i < tagArr.length; i++) {
-  tagArr[i].autocomplete = 'off';
-}
-
 const form = document.querySelector('.form');
 const page = document.querySelector('.page');
 
